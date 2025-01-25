@@ -2,11 +2,11 @@ const siteMetadata = {
   title: 'Tibo Gabriels',
   author: 'TiboGabriels',
   headerTitle: 'Tibo Gabriels',
-  description: 'Developer & Maker',
+  description: 'Sysadmin & Maker',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://tibo.gabriels.dev',
-  siteRepo: 'https://github.com/TiboGabriels/tibo.gabriels.dev',
+  siteRepo: 'https://github.com/TiboGabriels/tibogabriels.github.io',
   siteLogo: '/static/images/logo.svg',
   image: '/static/images/avatar.png',
   socialBanner: '/static/favicons/android-chrome-512x512.png',
